@@ -1,0 +1,41 @@
+{
+  "name": "marionette.routing",
+  "description": "MarionetteJS Routing",
+  "homepage": "https://marionettejs.com/",
+  "version": "1.0",
+  "main": "./dist/marionette.routing.js",
+  "license": "MIT",
+  "keywords": [
+    "backbone",
+    "framework",
+    "client",
+    "browser",
+    "composite"
+  ],
+  "author": {
+    "name": "Derick Bailey",
+    "email": "derickbailey@gmail.com"
+  },
+  "ignore": [
+    "docs",
+    "src",
+    "test",
+"tools",
+"yarn.lock",
+"README.md",
+    ".babelrc",
+    ".editorconfig",
+    ".eslintrc",
+    ".gitignore",
+    ".gitattributes",
+    ".npmignore",
+    ".travis.yml",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+"karma.conf",
+    "upgradeGuide.md"
+  ],
+  "dependencies": {
+    "backbone.radio": "^2.0.0"
+  }
+}
